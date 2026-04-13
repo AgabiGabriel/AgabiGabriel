@@ -40,7 +40,6 @@
 
 ### 🔭 Trabalhando atualmente em:
 
-* **RAG Pipeline no Azure:** Construindo uma arquitetura de *Retrieval-Augmented Generation* utilizando **Azure Document Intelligence** para ingestão de PDFs complexos e **Azure AI Search** com vetorização integrada.
 * **Automação de Dados:** Scripts Python para ETL e web scraping estruturado.
 * **IA Local:** Experimentos com LLMs (Ollama) rodando localmente para análise de código e automação.
 
