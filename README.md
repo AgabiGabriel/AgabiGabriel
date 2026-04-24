@@ -2,7 +2,7 @@
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=AgabiGabriel&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000&v=2" />
 </div>
 
-<h1 align="center">Olá, eu sou o Gabriel! 👋</h1>
+<h1 align="center">Olá, eu sou o Agabi! 👋</h1>
 <h3 align="center">Data Engineering Intern @WhiteCube 🎲 | Arch Linux User 🐧</h3>
 
 <p align="center">
