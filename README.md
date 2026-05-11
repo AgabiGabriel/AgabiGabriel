@@ -47,7 +47,7 @@
 
 ### 🌱 Estudos e Metas
 * [ ] Certificação Microsoft Azure Data Engineering (DP-700)
-* [ ] Certificação Databricks Associate Data Engineer
+* [X] Certificação Databricks Associate Data Engineer
 * [ ] Aprofundamento em Semantic Kernel e LangChain
 * [ ] Desenvolvimento de jogos indie com Godot 4 + GDScript
 
