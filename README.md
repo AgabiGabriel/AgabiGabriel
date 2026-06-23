@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Olá, eu sou o Agabi! 👋</h1>
-<h3 align="center">Data Engineering Intern @WhiteCube 🎲 | Arch Linux User 🐧</h3>
+<h3 align="center">Analytics Engineer @WhiteCube 🎲 | Arch Linux User 🐧</h3>
 
 <p align="center">
   Transformando dados brutos em insights e explorando o potencial da IA Generativa no ecossistema Azure.
