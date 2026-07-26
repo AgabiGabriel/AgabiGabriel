@@ -6,7 +6,7 @@
 <h3 align="center">Analytics Engineer @WhiteCube 🎲 | Arch Linux User 🐧</h3>
 
 <p align="center">
-  Transformando dados brutos em insights e explorando o potencial da IA Generativa no ecossistema Azure.
+  Transformando dados brutos em insights e explorando o potencial da IA Generativa.
 </p>
 
 <div align="center">
