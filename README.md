@@ -22,7 +22,7 @@
 <br>
 
 <div align="center">
-  <h3>🛠️ Tech Stack & Ferramentas</h3>
+  <h3>Tech Stack & Ferramentas</h3>
   <br>
   <p><strong>Data & Cloud</strong></p>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
