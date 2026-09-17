@@ -45,7 +45,7 @@
 
 ### Trabalhando atualmente em:
 
-* **Automação de Dados:** Scripts Python para ETL e web scraping estruturado.
+* **Jogos:** Cyber Runner 2D 
 * **IA Local:** Experimentos com LLMs (`Ollama`) rodando localmente para análise de código e automação.
 
 ### Estudos e Metas:
